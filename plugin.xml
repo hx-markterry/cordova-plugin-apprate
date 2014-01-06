@@ -10,7 +10,7 @@
 	<keywords>cordova,phonegap,App Rate,rate</keywords>
 
 	<engines>
-		<engine name="cordova" version="<=3.0.0" />
+		<engine name="cordova" version=">=3.0.0" />
 	</engines>
 
 	<!--<dependency id="org.apache.cordova.core.dialogs"
