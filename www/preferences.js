@@ -3,13 +3,13 @@ var AppRatePreferences;
 
 AppRatePreferences = {
   useLanguage: "en",
-  promptAtLaunch: false,
+  promptAtLaunch: true,
   promptAgainForEachNewVersion: true,
   daysUntilPrompt: 1,
-  usesUntilPrompt: 3,
+  usesUntilPrompt: 1,
   appStoreID: {
-    ios: "123456789",
-    android: "com.company.YourAppID",
+    ios: "783591488",
+    android: "com.HolidayExtras.Tripapp",
     blackberry: "123456789"
   }
 };
